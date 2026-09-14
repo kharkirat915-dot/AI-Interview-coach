@@ -1,0 +1,6 @@
+{
+  "name": "AI Interview Prep Coach",
+  "description": "Simulated mock interview practice with AI feedback on technical and behavioral answers.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
